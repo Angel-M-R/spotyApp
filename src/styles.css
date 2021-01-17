@@ -8,7 +8,9 @@ body {
 hr {
     border-color: white;
 }
-
+table{
+  color: white !important;
+}
 .puntero {
     cursor: pointer;
 }
